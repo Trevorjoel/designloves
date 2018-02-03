@@ -1,0 +1,9 @@
+[07-Oct-2017 11:44:32 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/c18071/public_html/wp-content/plugins/hello.php on line 60
+[07-Oct-2017 11:44:35 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/c18071/public_html/wp-content/plugins/hello.php on line 60
+[06-Nov-2017 11:30:39 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/c18071/public_html/wp-content/plugins/hello.php on line 60
+[06-Nov-2017 11:30:41 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/c18071/public_html/wp-content/plugins/hello.php on line 60
+[12-Jan-2018 14:24:38 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/c18071/public_html/wp-content/plugins/hello.php on line 60
+[13-Jan-2018 07:11:18 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/c18071/public_html/wp-content/plugins/hello.php on line 60
+[13-Jan-2018 07:31:55 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/c18071/public_html/wp-content/plugins/hello.php on line 60
+[14-Jan-2018 15:28:03 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/c18071/public_html/wp-content/plugins/hello.php on line 60
+[14-Jan-2018 15:28:05 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/c18071/public_html/wp-content/plugins/hello.php on line 60
